@@ -1,2 +1,3 @@
 # primer-repo
-jajjajajajja
+readme de mi primer repositorio
+
